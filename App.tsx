@@ -1,5 +1,4 @@
 import React, { useState } from 'react';
-import type {PropsWithChildren} from 'react';
 import {
   Button,
   SafeAreaView,
